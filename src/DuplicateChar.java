@@ -14,6 +14,7 @@ public class DuplicateChar {
 			if(!set.add(charArray[i]))
 			{
 				System.out.println("Duplicate characters at position"+i);
+				System.out.println("Duplicate characters at position");
 			}
 		}
 	}
